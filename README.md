@@ -1,1 +1,1 @@
-#### MySQL_Practice_Scripts on Employee Database Tables
+#### Employee Database Queries (SQL)
